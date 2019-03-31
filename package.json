@@ -1,0 +1,33 @@
+{
+  "name": "react-workshop-polished-external-packages",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.0.0-alpha.5",
+    "@material-ui/styles": "4.0.0-alpha.5",
+    "axios": "0.18.0",
+    "babel-runtime": "6.26.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-router-dom": "latest",
+    "react-scripts": "2.1.8",
+    "react-use-request": "0.0.4"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
